@@ -13,6 +13,6 @@ function invite() {
     }
 }
 invite();
+// Qno:15 ()
 guests.splice(3, 1, "Aunty");
 invite();
-// Qno:15 ()
